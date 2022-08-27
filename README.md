@@ -3,10 +3,20 @@
           I’m Henrique Alves Neto
 
 - 👀 I’m interested in coding and live this dream!
-- 🌱 I’m currently learning and improving my skills in Java
-- 💞️ I’m looking to collaborate on interesting profects
+- 🌱 I’m currently studying Full Stack Development at University Estácio de Sá
+- 💞️ I’m looking to collaborate on interesting projects and step at the programming world as an professional
 - 📫 How to reach me: henriquealves_neto@outlook.com
 ##
+
+
+
+          Eu sou Henrique Alves Neto
+
+- 👀 Estou interessado em codificar e viver esse sonho!
+- 🌱 Atualmente estou cursando Desenvolvimento Full Stack na Universidade Estácio de Sá
+- 💞️ Estou procurando colaborar em projetos interessantes e entrar no mundo da programação como em profissional
+- 📫 Como me contatar: henriquealves_neto@outlook.com
+
 <!---
 Starting to create my profile statics
 --->
