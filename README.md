@@ -39,7 +39,7 @@ Images of my skills
   <img align="center" alt="HN-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="HN-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="HN-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="HN-PYTHON" height="30" width="40" src="https://png2.cleanpng.com/sh/a65d5504cfc0e60108466f051238aaf8/L0KzQYm3U8I2N6puiZH0aYP2gLBuTgB6fJl0hp91b3fyPcH5jBdzaZ5yfeQ2ZnnogrTsTgB6fJl0hp9sbHnzccP7k702aZM8etZuMkC5drOAUb46PGc3SqY9NEG4QoKCWcEyO2k1SqoBLoDxd1==/kisspng-python-logo-programmer-fierce-python-cliparts-5ab7bde206fb71.9462244415219911380286.png">
+  <img align="center" alt="HN-PYTHON" height="30" width="40" src="https://www.gratispng.com/png-o110hn/">
   
 </div>
   
