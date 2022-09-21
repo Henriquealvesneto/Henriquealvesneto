@@ -40,6 +40,10 @@ Images of my skills
   <img align="center" alt="HN-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="HN-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="HN-PYTHON" height="30" width="40" src="https://logodownload.org/wp-content/uploads/2019/10/python-logo-4.png">
+  <img align="center" alt="HN-NodeJS" height="30" width="40" src="https://img2.gratispng.com/20180425/jrw/kisspng-node-js-javascript-web-application-express-js-comp-5ae0f84e2a4242.1423638015246930701731.jpg">
+          
+          
+          
   
 </div>
   
